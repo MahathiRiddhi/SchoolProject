@@ -1,0 +1,18 @@
+body{
+    cursor: pointer;
+  }
+  h1
+  {
+      color: red; 
+      font-size: 40px;
+  }
+  h2
+  {
+	  color: purple;
+	  font-size:30px;
+  }
+  h4
+  {
+	  color:black;
+	  font-size:20px;
+  }
